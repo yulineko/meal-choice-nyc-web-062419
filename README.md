@@ -6,7 +6,7 @@
 
 ## Instructions
 
-Define a method `meal_choice` that returns the value that was passed into it, and defaults to "meat" when nothing is passed in.
+Define a method `meal_choice` that returns the meal_choice that was passed into it and defaults to "meat".
 
 ## Resources
 * [Skorks Blog - Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
